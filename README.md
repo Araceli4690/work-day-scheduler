@@ -8,7 +8,7 @@ A simple calandar application that allows users to save events for the day on an
 * CSS
 * Javascript
 
-![](Work-Day-Scheduler.gif)
+![](./assets/images/Work-Day-Scheduler.gif)
 
 ## Website URL
 https://araceli4690.github.io/work-day-scheduler/
